@@ -1,0 +1,55 @@
+body{
+  background-color: #D5CDCD
+}
+h1 {
+  font-family: serif;
+  font-size: 40px;
+  margin-left: 500px;
+  color: black;
+}
+h2 {
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+}
+h3 {
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+}
+h4{
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+}
+h5{
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+}
+h6{
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+}
+h7{
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+h8{
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+h9{
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+}
+
+#siri {
+  float:right;
+}
